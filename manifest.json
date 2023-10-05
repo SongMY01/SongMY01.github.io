@@ -1,6 +1,6 @@
 {
-    "name": "testes",
-    "short_name": "testes",
+    "name": "boilerplate1",
+    "short_name": "boilerplate1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
